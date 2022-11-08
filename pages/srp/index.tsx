@@ -1,7 +1,8 @@
 import React from "react";
+import { SRP } from "../../src/pages/SRP";
 
 const index = () => {
-  return <div>solid in react</div>;
+  return <SRP />;
 };
 
 export default index;
